@@ -1,2 +1,2 @@
 # Barangay-Calumpang-Clinic-Management-System
-Barangay Calumpang Clinic Management System is a desktop-based health data management application designed to assist in the storage, organization, and retrieval of clinic records for diabetic and walk-in patients at Barangay Calumpang, Liliw, Laguna.
+Barangay Calumpang Clinic Management System is a desktop-based health data management application designed to assist in the storage, organization, and retrieval of clinic records for diabetic and walk-in patients at Barangay.
