@@ -1,2 +1,21 @@
 # Barangay-Calumpang-Clinic-Management-System
-Barangay Calumpang Clinic Management System is a desktop-based health data management application designed to assist in the storage, organization, and retrieval of clinic records for diabetic and walk-in patients at Barangay.
+
+The healthcare center  an important part of the community, providing free and accessible healthcare services to people of all ages and backgrounds, given the lack of a nearby hospital. Additionally, the clinic provides free consultations from a volunteer nurse and gives free medicine to those who cannot afford it.
+
+# The Major Problems that the Health Center Encounters
+
+- There is no copy of the test result of the patients in baranggay.
+- Chance of losing the notebook.
+- It is time consuming asking for patient’s notebook and writing the result.
+- There is no documented data of medicine that the walk in patient receive.
+
+# Objectives of The System
+-Create a system that can store and retrieve the information about the patient.
+- Minimize the hassle of the patient and the volunteers in checking and writing in the notebook.
+- Create a system that they will allow volunteers to store the data of walk-in patients that ask for medicines.
+
+## Contributors’ GitHub Profile Links:
+
+- [@alyssanew] (add-your-link)
+- [@jeysiiiiiii] (add-your-link)
+- [@ackleely](https://github.com/yourusername)
