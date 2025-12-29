@@ -17,5 +17,5 @@ The healthcare center  an important part of the community, providing free and ac
 ## Contributors’ GitHub Profile Links:
 
 - [@alyssanew] (add-your-link)
-- [@jeysiiiiiii] (https://github.com/jeysiiiiiii)
+- [@jeysiiiiiii](https://github.com/jeysiiiiiii)
 - [@ackleely](https://github.com/yourusername)
